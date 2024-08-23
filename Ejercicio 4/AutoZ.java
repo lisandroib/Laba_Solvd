@@ -69,6 +69,6 @@ public class Auto extends Vehiculo implements Conducible, Maniobrable, Transport
     
     @Override
     public void transportar() {
-    	System.out.println("El auto er transportado");
+    	System.out.println("El auto es transportado");
     }
 }
