@@ -1,0 +1,2 @@
+2024-08-27 03:33:12,575 ERROR r.LoggingDemoFirst [main] Caught exception: Invalid input provided: -1
+2024-08-27 03:33:12,585 ERROR r.LoggingDemoFirst [main] Caught exception: User ID cannot be null!
